@@ -2,3 +2,5 @@ MerbRouting
 =============
 
 This plugin allows you to use Merb routing in a Ruby on Rails project.
+
+See blog post: http://blog.hungrymachine.com/2008/12/29/merb-routing-in-rails/
